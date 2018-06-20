@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262626</color>
+    <color name="colorPrimaryDark">#0d0d0d</color>
+    <color name="colorAccent">#ff9900</color>
+
+    //test colors
+    <color name="colorMovieSelected">#33ff9900</color>
+    <color name="colorMovieSelectedBackground">#00ff9900</color>
+    <color name="movieTitle">#ffffff</color>
+
+    <color name="voteCountColor">#8c8c8c</color>
+
+</resources>

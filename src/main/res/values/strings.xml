@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MovieNightVolley</string>
+
+    <!--Settings Strings-->
+    <string name="settings_title">Settings</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="delete_favorite_movies_label">Delete</string>
+
+    <string name="no_internet_connection">No internet connection.</string>
+
+    //Order by ListPreference
+    <string name="settings_preference_order_by_title">Order By</string>
+    <string name="settings_preference_order_by_key" translatable="false">order_by</string>
+    <string name="settings_preference_order_by_default" translatable="false">@string/settings_preference_order_by_popular_value</string>
+
+    <string name="settings_preference_order_by_popular_label">Popular</string>
+    <string name="settings_preference_order_by_top_rated_label">Top rated</string>
+    <string name="settings_preference_order_by_now_playing_label">Now playing</string>
+
+    <string name="settings_preference_order_by_popular_value" translatable="false">popular</string>
+    <string name="settings_preference_order_by_top_rated_value" translatable="false">top_rated</string>
+    <string name="settings_preference_order_by_now_playing_value" translatable="false">now_playing</string>
+
+    //Number of movies ListPreference
+    <string name="settings_preference_movie_number_title">Number Of Movies Displayed</string>
+    <string name="settings_preference_movie_number_key" translatable="false">movie_number</string>
+    <string name="settings_preference_movie_number_default" translatable="false">@string/settings_preference_60_movies_value</string>
+
+    <string name="settings_preference_20_movies_label">20 Movies</string>
+    <string name="settings_preference_40_movies_label">40 Movies</string>
+    <string name="settings_preference_60_moviesg_label">60 Movies</string>
+    <string name="settings_preference_80_moviesg_label">80 Movies</string>
+    <string name="settings_preference_100_moviesg_label">100 Movies</string>
+
+    <string name="settings_preference_20_movies_value" translatable="false">1</string>
+    <string name="settings_preference_40_movies_value" translatable="false">2</string>
+    <string name="settings_preference_60_movies_value" translatable="false">3</string>
+    <string name="settings_preference_80_movies_value" translatable="false">4</string>
+    <string name="settings_preference_100_movies_value" translatable="false">5</string>
+
+    //UI Strings
+    <string name="release_date_label">Release Date:</string>
+    <string name="user_rating_label">User Rating:</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="movie_trailer_label">Watch trailer</string>
+    <string name="user_rating_helper_label">/10</string>
+    <string name="no_reviews_message">No reviews to show</string>
+
+    //Delete all Favorites alert dialog strings
+    <string name="alert_dialog_delete_title">Warning</string>
+
+    <string name="no_favorite_movies_info">No Favorite Movies</string>
+
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_preference_order_by_popular_label</item>
+        <item>@string/settings_preference_order_by_top_rated_label</item>
+        <item>@string/settings_preference_order_by_now_playing_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_preference_order_by_popular_value</item>
+        <item>@string/settings_preference_order_by_top_rated_value</item>
+        <item>@string/settings_preference_order_by_now_playing_value</item>
+    </string-array>
+
+    <string-array name="settings_movie_number_labels">
+        <item>@string/settings_preference_20_movies_label</item>
+        <item>@string/settings_preference_40_movies_label</item>
+        <item>@string/settings_preference_60_moviesg_label</item>
+        <item>@string/settings_preference_80_moviesg_label</item>
+        <item>@string/settings_preference_100_moviesg_label</item>
+    </string-array>
+
+    <string-array name="settings_movie_number_values">
+        <item>@string/settings_preference_20_movies_value</item>
+        <item>@string/settings_preference_40_movies_value</item>
+        <item>@string/settings_preference_60_movies_value</item>
+        <item>@string/settings_preference_80_movies_value</item>
+        <item>@string/settings_preference_100_movies_value</item>
+    </string-array>
+</resources>
